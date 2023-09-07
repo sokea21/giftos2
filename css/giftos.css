@@ -1,0 +1,96 @@
+/* .navbar */
+.navbar {
+    background-color: rgb(245, 234, 235) !important;
+    
+}
+.navbar-nav .nav-link.active{
+    background-color: white; 
+}
+.slider_section{
+    background-color: pink;
+}
+.bg-slideshow{
+    background-color: pink;
+}
+/* ebd .navbar */
+/* .shop_section */
+.shop_section .box {
+    background-color: #eeeeee;
+    position: relative;
+    padding: 10px;
+    margin-top: 25px;
+}
+.shop_section .box .new {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #ffffff;
+    display: flex;
+    border-radius: 100%;
+    font-size: 15px;
+}
+.new p{
+    margin: 14px 10px;
+}
+/* end .shop_section */
+.shop_section .box .img-box img {
+    max-width: 100%;
+    max-height: 145px;
+}
+.box-1{
+    background-color: #7fd7eb;
+    height: 475px !important;
+}
+.color{
+    background-color: #109dbd;
+}
+.active:hover.btn{
+    background-color: #ffffff;
+    color: black;
+}
+.active_1:hover.btn{
+    background-color:#7fd7eb;
+}
+.box_row .row .box{
+    margin-top: 40px;
+    background-color: #f9f8f7;
+    padding: 25px;
+    border-radius: 5px;
+    height: 200px; 
+}
+.box_row .row .box img{
+    width: 70px;
+}
+.box-2{
+    background-color: #6929a5;
+    height: 650px !important;
+}
+.active:hover.btn{
+    background-color: #ffffff;
+    color: black;
+}
+.active_2:hover.btn{
+    background-color: #6929a5;
+
+}
+.bg-color{
+    background-color: #8848c4;
+    color: #eeeeee;
+}
+.container-bg input {
+    width: 100%;
+    border: 1px solid #919191;
+    height: 50px;
+    margin-bottom: 25px;
+    padding-left: 25px;
+    background-color: transparent;
+    outline: none;
+}
+.message-box{
+    height: 100px !important;
+}
+.hend{
+    margin-left: -50px;
+}
